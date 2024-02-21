@@ -270,7 +270,7 @@ margin-left: 50px; }
 
 }
 
-/* Para escritorios */
+/* Para desktops */
 @media (min-width: 1024px) {
   .logo--imagen {
     height: 50px;
